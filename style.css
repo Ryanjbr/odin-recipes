@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    color: #d694d0;
+
+}
+
+body {
+    background-image: url('https://www.publicdomainpictures.net/pictures/10000/velka/colorful-autumn-leaves-871286965014L8g8.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 36px;
+}
+
+.recipe {
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 600px;
+}
+
+ul,
+ol {
+    list-style: inside;
+}
